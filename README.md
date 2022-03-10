@@ -24,14 +24,16 @@ I am passionate about the industry and coding ❤❤️
 
 <br/>
 
-## 👍 I'm currently working on ...
+## 👍 I'm currently working on...
 
 **... full time SWE**
 
 **... open source communities**
 I am contributing to Hyperledger and looking to become contributor for good  Blockchain/Defi projects ❤️
 
+
 <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrawangyx&show_icons=true)
 
