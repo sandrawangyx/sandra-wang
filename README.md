@@ -1,4 +1,33 @@
-### Hello folks 👋
+### Hello World 👋
+I am ...
+
+Sandra Wang, a full-stack Software Engineer working in the Blockchain/Crypto/Defi space. 
+I have worked as a backend SWE in Capital Market Technology for a few years.
+I am passionate about the industry and coding ❤❤️ \#womenintech \#womenincrypto
+
+
+## 🌸 I know ...
+
+**Programming & Web Development**
+* Java 8+
+* JavaScript/Typescript
+* Python
+* SQL,NOSQL
+* React (learning @ work)
+* Solidity
+* C
+* R
+
+<br/>
+
+## 👍 I'm currently working on ...
+
+**... full time SWE**
+
+**... open source communities**
+I am contributing to Hyperledger and looking to become contributor for good  Blockchain/Defi projects ❤️
+
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrawangyx&show_icons=true)
 
