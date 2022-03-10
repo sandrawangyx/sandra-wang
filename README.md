@@ -2,17 +2,22 @@
 I am ...
 
 Sandra Wang, a full-stack Software Engineer working in the Blockchain/Crypto/Defi space. 
+
 I have worked as a backend SWE in Capital Market Technology for a few years.
-I am passionate about the industry and coding ❤❤️ \#womenintech \#womenincrypto
+
+I am passionate about the industry and coding ❤❤️ 
+
+\#womenintech \#womenincrypto
 
 
 ## 🌸 I know ...
 
 **Programming & Web Development**
-* Java 8+
+* Go
+* Java 8+, Kotlin, Spring Boot
 * JavaScript/Typescript
 * Python
-* SQL,NOSQL
+* SQL, NOSQL
 * React (learning @ work)
 * Solidity
 * C
