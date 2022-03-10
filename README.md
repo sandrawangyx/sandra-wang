@@ -1,5 +1,4 @@
-### Hello World 👋
-I am ...
+### Hello World 👋 I am ...
 
 Sandra Wang, a full-stack Software Engineer working in the Blockchain/Crypto/Defi space. 
 
