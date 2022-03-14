@@ -13,6 +13,7 @@ I am passionate about the industry and coding ❤❤️
 
 **Programming & Web Development**
 
+<p>
 <img src="{https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white}" />
@@ -25,12 +26,15 @@ I am passionate about the industry and coding ❤❤️
 <img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
 
 <img src="{https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white}" />
+</p>
+
 
 ## 👩‍💻 I'm learning ...
+<p>
 <img src="{https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black}" />
 <img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324}" />
-
+</p>
 
 <br/>
 
