@@ -12,15 +12,25 @@ I am passionate about the industry and coding ❤❤️
 ## 🌸 I know ...
 
 **Programming & Web Development**
-* Go
-* Java 8+, Kotlin, Spring Boot
-* JavaScript/Typescript
-* Python
-* SQL, NOSQL
-* React (learning @ work)
-* Solidity
-* C
-* R
+
+<img src="{https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+<img src="{https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}" />
+<img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
+<img src="{https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white}" />
+
+<img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
+<img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
+
+<img src="{https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white}" />
+
+## 👩‍💻 I'm learning ...
+<img src="{https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black}" />
+<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324}" />
+
 
 <br/>
 
