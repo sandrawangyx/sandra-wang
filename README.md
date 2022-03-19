@@ -52,7 +52,7 @@ I am passionate about the industry and coding ❤❤️
 **... full time SWE**
 
 **... open source communities**
-I am contributing to Hyperledger and looking to become contributor for good  Blockchain/Defi projects ❤️
+I am contributing to open source projects and looking to become contributor for good Blockchain/Defi projects ❤️
 
 
 <br/>
